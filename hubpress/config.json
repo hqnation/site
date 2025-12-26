@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "hqnation",
-    "repositoryName": "hqnation.github.io",
-    "branch": "master"
+    "repositoryName": "hqnation.github.io/site",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
